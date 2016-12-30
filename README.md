@@ -1,2 +1,2 @@
-SM-T900 device repo for CyanogenMod.
+SM-T900 device repo for CyangenMod.
 
